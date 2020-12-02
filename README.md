@@ -1,2 +1,2 @@
-#A series manager builded with laravel
-##Requirements
+# A series manager builded with laravel
+## Requirements
