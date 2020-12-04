@@ -4,4 +4,4 @@
 ## Resume
     Home do site             |  Adicionando alguma série
 :-------------------------:|:-------------------------:
-![Home](assets/img/Home.gif)  |  ![INSERT serie](assets/img/Admin.gif)
+![Home](resources/img/Home.png)  |  ![INSERT serie](resources/img/Add show page.png)
