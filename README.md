@@ -2,6 +2,7 @@
 ## Requirements:
     You need a docker image with laravel located in https://github.com/aschmelyun/docker-compose-laravel
 ## website developed in laravel.
+natal
 
 Home do site             |  Add serie to your list
 :-------------------------:|:-------------------------:
